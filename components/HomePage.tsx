@@ -4,7 +4,6 @@ import p3 from "@/assets/home/p3.jpg"
 import p2 from "@/assets/home/p2.jpg"
 import p1 from "@/assets/home/p1.jpg"
 import Image from 'next/image'
-import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import {
   AlertDialog,
